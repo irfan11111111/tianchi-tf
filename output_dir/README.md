@@ -1,4 +1,1 @@
-## 预测
-```
-python test_finetune.py
-```
+## 预测结果路径
