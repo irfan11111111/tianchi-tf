@@ -5,7 +5,7 @@
 
 2.自动学习参数
 
-.bert输出到bilstm
+3.bert输出到bilstm
 
 
 ## 背景介绍    
