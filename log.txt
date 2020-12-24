@@ -1,0 +1,3 @@
+1.修改路径flags.DEFINE_string("modelZooBasePath", default=os.path.join("./model", "eztransfer_modelzoo"), help="eztransfer_modelzoo")
+2.数据中替换“,”为“，”
+3.使用ipynb中的代码

@@ -1,0 +1,3 @@
+./tianchi_datasets/TNEWS/train.tfrecord
+./tianchi_datasets/OCEMOTION/train.tfrecord
+./tianchi_datasets/OCNLI/train.tfrecord
