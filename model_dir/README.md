@@ -1,4 +1,1 @@
-## 预测
-```
-python test_finetune.py
-```
+## 模型输出路径
